@@ -27,7 +27,6 @@
         ]
     },
     "require": {
-        "symfony/symfony": "^4|^5",
         "pimcore/pimcore": "^10.0",
         "dachcom-digital/dynamic-search": "dev-pimcore-x"
     },
