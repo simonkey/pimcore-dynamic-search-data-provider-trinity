@@ -28,7 +28,7 @@
     },
     "require": {
         "pimcore/pimcore": "^10.0",
-        "dpfaffenbauer/dynamic-search": "dev-pimcore-x"
+        "dachcom-digital/dynamic-search": "dev-pimcore-x"
     },
     "require-dev": {
         "codeception/codeception": "~2.4.0",
